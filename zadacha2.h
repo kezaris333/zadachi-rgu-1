@@ -12,7 +12,7 @@ void reverse_string(char str[]) {
 }
 
 int main() {
-    char str[] = "TEST";
+    char str[] = "okeeeeyyy letsgooooooo";
     reverse_string(str); 
     printf("Перевернутая строка: %s\n", str); 
     return 0; 
